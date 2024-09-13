@@ -1,0 +1,2 @@
+# Newsapp
+Infoclick Django app
